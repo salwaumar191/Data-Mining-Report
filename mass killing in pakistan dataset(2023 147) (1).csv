@@ -1,0 +1,255 @@
+YEAR,Month,INCIDENT NAME,TOTAL VICTIMS,TOTAL VICTIMS,LOCATION,INJURED,INJURED,DEATH,DEATH,ATTACK TYPE,PERPETRATOR,TARGET
+2001,oct,Bahawalpur church Shooting,Low,18,Bahawalpur,Low,0,Low,18,Mass shooting,Lashkar e janghvi,Christians
+2002,may,Karachi Bus bombing,Low,54,karachi,Low,40,Low,14,Suicide Bombing,Al-Qaeda,French People
+2003,Jul,Quetta Mosque bombing,Low,118,Quetta,Low,65,Low,53,Suicide Bombing,Lashkar e janghvi,Shia Community
+2004,mar,Quetta Ashura Massacre,Low,149,Quetta,Low,100,Low,49,Rocket Attack,Lashkar e janghvi,Shia Community
+2004,oct,multan bombing,Low,140,multan,Low,100,Low,40,car bombing,,mourners
+2005,oct,mong shootings,Low,28,mandi bahauddin district,Low,20,Low,8,shooting,,ahmediyya muslim community
+2006,nov,jamat ahle sunnat,Low,143,karachi,Low,80,Medium,63,bomb attack,Lashkar e janghvi,jamat ahle sunnat
+2006,nov,dargai bombing,Low,62,kpk,Low,20,Low,42,Suicide Bombing,taliban,punjab regiment
+2007,jan,dera ismail khan suicide bombing,Low,9,kpk,Low,7,Low,2,Suicide Bombing,,Shia Community
+2007,apr,charasadda bombing,Low,3,kpk,Low,1,Low,2,Suicide Bombing,,Shia Community
+2007,aug,parachinar bombing,Low,55,parachinar,Low,43,Low,12,car bombing,Ghayoor Khan Chamkani,market
+2007,apr,makran massacre,Low,14,makran,Low,0,Low,14,shooting,baloch militants,Security personnel and locals
+2007,apr,quetta bombing,Low,70,quetta,Low,48,Low,22,suicide bombing,Lashkar-e-Jhangvi,Hazaras
+2007,may,lahore bombing,Low,37,lahore,Low,24,Low,13,suicide bombing,jamat ul ahrar,Shia Community
+2007,may,pearl continental hotel balochistan,Low,14,balochistan,Low,6,Low,8,shooting,balochistan liberation army,Chinese tourists
+2007,sep,namrita chandani,Low,1,ghotki ,Low,0,Low,1,,,Namrita Chandani
+2007,may ,North waziristan Suicide Bombing,Low,4,North waziristan,Low,0,Low,4,Suicide bombing,Jaish Fursan Muhammad,security checkpoint
+2007,Jul,Khar Bombing,Medium,263,Khar,Medium,200,Medium,63,suicide bombing,IS-KP,jamiat ulema e Islam
+2007,august,North waziristan Landmine Bombing,Low,13,North waziristan,Low,2,Low,11,Terrorist Attack,ISIL,Laborers
+2007,sep,Matsung Bombing,Low,130,Matsung District,Low,70,Low,60,suicide bombing,ISIL,Eid Milad-ul-Nabi procession
+2007,sep,hangu Mosque Bombing,Low,17,Hangu,Low,12,Low,5,suicide bombing,,Mosque
+2007,nov,Dera Ismail Bombing,Low,25,Dera Ismail Khan ,Low,20,Low,5,Bombing,,KPK police
+2007,nov,Gwadar Ambush,Low,14,Gwadar District,Low,0,Low,14,Ambush,balochistan liberation army,Soldiers
+2007,jan,quetta bombing,Low,34,quetta,Low,19,Low,15,suicide bombing,islamic state of Iraq and the levant,Talibun run mosque
+2007,feb,quetta bombing,Low,45,quetta,Low,35,Low,10,suicide bombing,,
+2007,jun,pakistan stock exchange,Low,15,karachi,Low,7,Low,8,mass shooting,balochistan liberation army,Pakistan Stock Exchange
+2007,aug,hayat baloch,Low,1,"turbat,kech district",Low,0,Low,1,extrajudical killing,Shadiullah,Hayat Baloch
+2007,sep,rawalpindi bombing,Low,93,rawalpindi,Low,68,Low,25,suicide bombing,baitullah mehsud,bus
+2007,oct,karsaaz bombing,High,680,karachi,High,500,High,180,Suicide Bombing,,benazir bhutto's supporters
+2007,dec,charasadda mosque bombing,Low,150,kpk,Low,100,Low,50,Suicide Bombing,,mosque
+2007,dec,assassination of benazir bhutto,Low,24,rawalpindi,Low,0,Low,24,target killing,tehreek e taliban,benazir bhutto
+2008,feb,charsadda bombing,Low,77,kpk,Low,50,Low,27,suicide bombing,,Awami National Party
+2008,feb,parachinar bombing,Low,220,parachinar,Low,150,Medium,70,suicide attack,,riaz shah
+2008,feb,Mingora funeral Bombing,Low,40,swat District,Low,0,Low,40,Suicide Bombing,,Funeral
+2008,Jun,Danish Embassy Bombing,Low,29,Islamabad,Low,24,Low,5,Suicide Bombing,Al-Qaeda,danish embassy
+2008,aug ,dera ismail khan bombing,Low,87,Dera Ismail khan,Low,55,Low,32,Suicide Bombing,tehreek e taliban,Shia Protestors
+2008,aug,Wah Bombing ,Medium,300,Wah Catonment,Medium,200,Medium,100,Suicide Attack,,Pakistan ordnance Factories
+2008,Aug,Swat Valley Bombing,Low,20,swat District,Low,0,Low,20,Suicide bombing,tehreek e taliban,Pakistan police and Army
+2008,sept,Peshawar Bombing ,Low,105,Peshawar,Low,70,Low,35,Bombing,,Unknown
+2008,sept,Islamabad marroitt hospital Bombing,Medium,320,Islamabad,Medium,266,Low,54,Suicide Attack Truck bombing,,Mariott Hotel
+2008,sept,Peshawar Bombing ,Low,105,Peshawar,Low,70,Low,35,Bombing,,Police checkpoint
+2008,oct,Orakzai Bombing,Medium,310,Orakzai Agency,Medium,200,Medium,110,Suicide car bomb,Ali khel tribesmen,Taliban headquarters
+2008,nov,dera ismail khan bombing,Low,8,banu adda,Low,0,Low,8,shooting,,Pallbearers
+2009,jan,Dera Ismail Khan bombing,Low,68,Polytechnic college,Low,52,Low,16,Bombing,,Police officers
+2009,feb,dera ismail khan suicide bombing,Low,97,Dera Ismail khan,Low,65,Low,32,suicide Bombing,,Pallbearers
+2009,mar,Attack on sri lanka National Cricket Team,Low,17,Lahore,Low,9,Low,8,Ambush,Lashkar e janghvi,Bus of Srilankan Cricketers
+2009,mar,jamrud Mosque Bombing,Low,178,Jamrud,Low,100,Medium,78,Suicide Bombing,,Mosque
+2009,mar,Lahore Police Academy Attack,Low,111,Lahore,Low,16,Medium,95,siege,,Manawan Police Academy
+2009,apr,Islamabad Frontier Corps Post Bombing,Low,10,Islamabad,Low,5,Low,5,Suicide Bombing,,Policemen
+2009,apr,Chakwal Mosque Bombing,Low,180,Chakwal,Low,150,Low,30,Suicide Bombing,,Mosque
+2009,may,Dera Ismail khan Bombing,Low,14,Dera Ismail khan,Low,9,Low,5,Bombing,,KP police 
+2009,may ,Lahore Attack,Medium,285,Lahore,Medium,250,Low,35,car bombing,,Police Headquarter
+2009,Jun ,Pearl Continental Hotel Bombing,Low,63,Peshawar,Low,46,Low,17,Bombing,tehreek e taliban,Hotel
+2009,Jul,Mian Channu School house Bombing,Low,72,Mian Channu,Low,60,Low,12,Mass Murder,Lashkar e janghvi,School
+2009,sep,Usterzai Bombing ,Low,39,Usterzai,Low,0,Low,39,Suicide Car Bombing,Lashkar e janghvi Al-Almi,Shia Community
+2009,oct,Peshawar Bombing ,Low,141,Peshawar,Low,100,Low,41,Minibus Bombing,,Khyber Bazaar
+2009,oct,Alpuri Bombing,Low,91,Alpuri,Low,47,Low,44,Suicide attack,tehreek e taliban,Pakistan Security Personnel
+2009,oct,Lahore Attack,Low,58,Lahore ,Low,20,Low,38,Shooting,,FIA
+2009,oct,International Islamic University Bombing ,Low,35,Islamabad,Low,6,Low,29,Suicide school bombing,,International Islamic University
+2009,oct,Peshawar Bombing ,Medium,350,Peshawar,Medium,213,High,137,car bombing,,Meena Bazaar
+2009,nov,rawalpindi bombing,Low,95,rawalpindi,Low,60,Low,35,Suicide Bombing,tehreek e taliban,Bank
+2009,Nnov,Peshawar judicial Complex Bombing,Low,60,peshawar ,Low,50,Low,10,Suicide Bombing,,Court building
+2009,dec,Rawalpindi Attack,Low,120,rawalpindi,Low,80,Low,40,Suicide Attack,,Mosque
+2009,dec,Lahore attacks,Low,204,Lahore,Low,150,Low,54,shooting and Bombing,,Citizens
+2009,dec,Dera Ghazi Khan Bombing,Low,83,Dera Ghazi Khan,Low,50,Low,33,Bombing,,Market
+2009,dec,Lower Dir Mosque Bombing,Low,40,Lower dir District,Low,28,Low,12,Suicide Bombing,,Mosque
+2009,dec,Karachi Bombing,Low,103,Karachi,Low,60,Low,43,Bombing,tehreek e taliban,Shia Community
+2010,Jan,Lakki marwat suicide bombing,Low,205,Lakki marwat District,Low,100,Medium,105,Suicide Bombing,,Volleyball Audience
+2010,apr,Kechi District Attack,Low,4,Kech District,Low,0,Low,4,Terrorist Attack,,Pakistan security forces
+2010,oct,multan bombing,Low,140,multan,Low,100,Low,40,car bombing,,mourners
+2010,oct,Bahawalpur church Shooting,Low,18,Bahawalpur,Low,0,Low,18,Mass shooting,Lashkar e janghvi,Christians
+2010,october,karsaaz bombing,High,680,karachi,High,500,High,180,Suicide Bombing,,benazir bhutto's supporters
+2010,aug,Swat Valley Bombing,Low,20,swat District,Low,0,Low,20,Suicide bombing,tehreek e taliban,Pakistan police and Army
+2010,sep,camp badaber attack,Low,64,badaber,Low,25,Low,39,mass shooting,taliban,pakistan air force camp badaber
+2010,jan,machh attack,Low,31,machh,Low,20,Low,11,Suicide Bombing,islamic state khorasan province,
+2010,dec,priyantha kumara,Low,1,sialkot,Low,0,Low,1,Bombing,,Priyantha Kumara
+2010,jan,"kech district,Lahore bombing",Low,13,kech,Low,3,Low,10,militant attack,balochistan liberation front,Army security post
+2010,feb,mushtaq ahmad,Low,1,mushtaq,Low,0,Low,1,Bombing,,Mushtaq Ahmed
+2010,mar,peshawar bombing,Medium,259,peshawar,Medium,196,Medium,63,suicide bombing,islamic state khorasan province,The Kucha Risaldar Shia Mosque
+2011,mar,sibi,Low,66,sibi,Low,34,Low,32,Shooting,,Citizens
+2011,nov,dera ismail khan bombing,Low,8,banu adda,Low,0,Low,8,shooting,,Pallbearers
+2011,jan,Dera Ismail Khan bombing,Low,68,Polytechnic college,Low,52,Low,16,Bombing,,Police officers
+2015,nov,khuzdar bombing,Low,157,khuzdar,Low,102,Low,55,bombing,isis,Civillians
+2011,dec,mardan suicide bombing,Low,76,mardan,Low,50,Low,26,suicide attack,tehreek e taliban,Civillians
+2011,dec,parachinar bombing,Low,87,parachinar,Low,62,Low,25,bombing,,Civillians
+2011,jan,Bacha Khan University attack,Low,34,charsadda,Low,12,Low,22,school shooting,taliban,bacha khan university
+2011,jan,quetta suicide bombing ,Low,40,quetta,Low,25,Low,15,suicide bombing,tehreek e taliban,Civillians
+2011,mar,lahore bombing,Medium,415,lahore,High,340,Medium,75,suicide bombing,jamat ul ahrar,pakistani christians
+2011,mar,peshawar bus bombing,Low,40,peshawar,Low,25,Low,15,mass murder,,Civillians
+2011,jul,samia shahid,Low,1,pandori,Low,0,Low,1,murder,,Samia Shahid
+2011,aug,quetta attacks,Low,190,quetta,Low,120,Medium,70,suicide bombing,jamat ul ahrar,Civillians
+2011,sep,mohmand mosque bombing,Low,70,butmaina,Low,34,Low,36,suicide bombing,jamat ul ahrar,Mosque
+2011,feb,dera ismail khan suicide bombing,Low,97,Dera Ismail khan,Low,65,Low,32,suicide Bombing,,Pallbearers
+2011,feb,hayatabad sucide bombing,Low,14,hayatabad,Low,12,Low,2,suicide attack,tehreek e taliban,judges
+2011,feb,lahore bombing,Low,108,lahore,Low,90,Low,18,suicide bombing,jamat ul ahrar,police officals
+2011,mar,parachinar sucide bombing,Low,112,parachinar,Low,87,Low,25,bombing,Lashkar-e-Jhangvi,Civillians
+2011,apr,lahore bombing,Low,32,lahore,Low,24,Low,8,suicide bombing,tehreek e taliban,Civillians
+2011,apr,Sargodha shrine massacre,Low,23,Sargodha,Low,3,Low,20,torture,,people visiting shrine
+2011,may,gawadar labour shooting,Low,10,gawadar,Low,0,Low,10,shooting,taliban,sindhi labourers
+2011,jun,zarghoon road killing,Low,24,zarghoon,Low,15,Low,9,Mass shooting,taliban,Civillians
+2011,jan,khyber agency bombing,Low,108,FATA,Low,78,Low,30,remote controlled bomb,ehsanullah ehsan,Citizens
+2011,feb,Rahim yar khan,Low,18,rahim yar khan,Low,0,Low,18,remote controlled bomb,Lashkar-e-Jhangvi,Civillians
+2011,feb,Kohistan shia massacre,Low,18,KPK,Low,0,Low,18,mass murder,jundallah,Civillians
+2011,aug,Mansehra shia massacre,Low,25,gilgit baltistan,Low,0,Low,25,mass shooting,tehreek e taliban,Citizens
+2011,dec,Bacha Khan International Airport attack,Low,49,peshawar,Low,40,Low,9,rocket attack,tehreek e taliban,Airport
+2011,dec,Dera Ismail Khan bombing,Low,91,Dera Ismail Khan ,Low,83,Low,8, bombing,tehreek e taliban,Civillians
+2011,dec,murder of shahzeb khan,Low,1,karachi,Low,0,Low,1,shooting,Shahrukh Jatoi ,shahzeb khan
+2011,jan,pakistan bombing,Medium,412,quetta,Medium,270,High,142,bombing,Lashkar-e-Jhangvi,shia community
+2011,feb,quetta bombing,Medium,281,quetta,Medium,190,Medium,91,bombing,Lashkar-e-Jhangvi,shia community
+2011,mar,karachi bombing,Medium,228,karachi,Medium,180,Low,48,car bombing,Lashkar-e-Jhangvi,shia community
+2011,may,pakistan election day bombing,Low,40,karachi,Low,20,Low,20,bombing ,tehreek e taliban,Awami National Party
+2012,may,Syed Janan election rally bombing,Low,58,hangu,Low,40,Low,18,suicide bombing,Haleem Khan,mufti syed janan
+2012,jun,karachi bombing,Low,24,karachi,Low,15,Low,9,bomb blast,,maqbool waqar's convoy
+2012,jun,mardan funeral suicide bombing,Low,88,mardan,Low,60,Low,28,suicide bombing,,Imran Khan Muhammad
+2012,jun,nanga parbat massacre,Low,13,gilgit baltistan,Low,2,Low,11,mass shooting,tehreek e taliban,foreign mountaineering party
+2012,jun,pakistan bombing,Low,171,quetta,Low,119,Low,52,bombing,Lashkar-e-Jhangvi,shia community
+2012,jun,peshawar mosque attack,Low,35,peshawar,Low,20,Low,15,suicide bombing,,shia community
+2013,jun,Quaid-e-Azam Residency attack,Low,2,quetta ,Low,1,Low,1,rocket attack,balochistan liberation army,memorials of Quaid-e-Azam residency
+2013,jun,quetta attacks,Low,46,quetta,Low,26,Low,20,suicide bombing,Lashkar-e-Jhangvi,Pakistan security forces
+2013,jul,dera ismail khan prison attack,Low,25,Dera Ismail Khan ,Low,20,Low,5,Bombing,tehreek e taliban,KPK police
+2013,jul,lahore bombing,Low,45,lahore,Low,40,Low,5,bombing,,Civillians
+2013,jul,parachinar bombing,Low,157,parachinar,Low,100,Low,57,bombing,,Market
+2013,aug,karachi bombing,Low,37,karachi,Low,26,Low,11,bombing,,Javed Nagori
+2013,aug,quetta bombing,Low,87,quetta,Low,50,Low,37,suicide bombing,tehreek e taliban,fayaz sumbul
+2013,aug,quetta shooting,Low,40,quetta,Low,30,Low,10,shooting,,Ali Madad Jatak
+2013,sep,Peshawar church bombing,Medium,377,peshawar,Medium,250,High,127,Suicide Bombing,jundullah,Christians
+2013,sep,qissa khwani bazaar bombing,Low,141,peshawar,Low,100,Low,41,car bomb,,Market
+2013,jan,mastung bus bombing,Low,61,mastung,Low,32,Low,29,bomb,Lashkar-e-Jhangvi,bus
+2013,jan,Rawalpindi suicide bombing,Low,32,Rawalpindi,Low,18,Low,14,Suicide Bombing,taliban,pakistan army
+2013,feb,peshawar cinema bombing,Low,32,peshawar,Low,19,Low,13,Grenade attack,,movie theatre
+2013,mar,islamabad court attack,Low,36,islamabad,Low,25,Low,11,automatic rifle attack,Ahra ul hine,Islamabad court
+2013,may,farzana parveen iqbal,Low,1,lahore,Low,0,Low,1,bricks attack,family,farzana parveen
+2013,may,rashid rehman,Low,3,Multan,Low,2,Low,1,shooting,,rashid rehman
+2013,jun,jinnah international airport attack,Low,54,karachi,Low,18,Low,36,mass shooting,tehreek e taliban,jinnah international airport
+2013,aug,Attack on the Online International News Network,Low,3,quetta,Low,0,Low,3,armed attack,Shafqat Ali Rohdini,journalists
+2013,nov,Wagah border suicide attack,Low,160,lahore,Low,100,Low,60,suicide bombing,jamat ul ahrar,Civillians
+2013,dec,peshawar school massacre,Medium,270,peshawar,Low,114,High,156,school shooting,tehreek e taliban,Army public school
+2014,jan,shikarpur bombing,Low,111,shikarpur,Low,50,Medium,61,bombing,jundallah,shiite mosque
+2014,feb,peshawar mosque attack,Low,82,peshawar,Low,63,Low,19,shooting,taliban,shiite mosque
+2014,mar,lahore church bombing,Low,85,lahore,Low,70,Low,15,suicide bombing,jamat ul ahrar,Roman Catholic Church
+2014,may,karachi bus shooting,Low,57,karachi,Low,12,Low,45,shooting,jundallah,ismaili community
+2014,may,mastung bus attack,Low,35,mastung,Low,13,Low,22,shooting,united baloch army,bus
+2014,aug,attock bombing,Low,36,attock,Low,17,Low,19,suicide attack,Lashkar-e-Jhangvi,shuja khanzada
+2014,May,Karachi Bus bombing,Low,54,karachi,Low,40,Low,14,Suicide Bombing,Al-Qaeda,French People
+2014,July,Quetta Mosque bombing,Low,118,Quetta,Low,65,Low,53,Suicide Bombing,Lashkar e janghvi,Shia Community
+2014,Mar,Quetta Ashura Massacre,Low,149,Quetta,Low,100,Low,49,Rocket Attack,Lashkar e janghvi,Shia Community
+2014,oct,multan bombing,Low,140,multan,Low,100,Low,40,car bombing,,mourners
+2014,oct,mong shootings,Low,28,mandi bahauddin district,Low,20,Low,8,shooting,,ahmediyya muslim community
+2014,nov,jamat ahle sunnat,Low,143,karachi,Low,80,Medium,63,bomb attack,Lashkar e janghvi,jamat ahle sunnat
+2014,nov,dargai bombing,Low,62,kpk,Low,20,Low,42,Suicide Bombing,taliban,punjab regiment
+2014,jan,dera ismail khan suicide bombing,Low,9,kpk,Low,7,Low,2,Suicide Bombing,,Shia Community
+2014,apr,charasadda bombing,Low,3,kpk,Low,1,Low,2,Suicide Bombing,,Shia Community
+2014,sep,camp badaber attack,Low,64,badaber,Low,25,Low,39,mass shooting,taliban,pakistan air force camp badaber
+2014,oct,jacobabad bombing,Low,45,jacobabad,Low,20,Low,25,suicide attack,Lashkar-e-Jhangvi,shia community
+2014,oct,quetta bus bombing,Low,33,quetta,Low,22,Low,11,bombing,,bus
+2014,oct,taunsa sharif bombing,Low,20,taunsa sharif,Low,13,Low,7,suicide attack,tehreek e taliban,PMLN office
+2015,dec,mardan suicide bombing,Low,76,mardan,Low,50,Low,26,suicide attack,tehreek e taliban,Civillians
+2015,dec,parachinar bombing,Low,87,parachinar,Low,62,Low,25,bombing,,Civillians
+2015,jan,Bacha Khan University attack,Low,34,charsadda,Low,12,Low,22,school shooting,taliban,bacha khan university
+2015,jan,quetta suicide bombing ,Low,40,quetta,Low,25,Low,15,suicide bombing,tehreek e taliban,Civillians
+2015,mar,lahore bombing,Medium,415,lahore,High,340,Medium,75,suicide bombing,jamat ul ahrar,pakistani christians
+2015,mar,peshawar bus bombing,Low,40,peshawar,Low,25,Low,15,mass murder,,Civillians
+2015,jul,samia shahid,Low,1,pandori,Low,0,Low,1,murder,,
+2015,aug,quetta attacks,Low,190,quetta,Low,120,Medium,70,suicide bombing,jamat ul ahrar,
+2015,sep,mohmand mosque bombing,Low,70,butmaina,Low,34,Low,36,suicide bombing,jamat ul ahrar,
+2015,oct,Quetta police training college attack,Medium,227,Quetta,Low,165,Medium,62,mass shooting,Lashkar-e-Jhangvi,police training centre
+2015,nov,khuzdar bombing,Low,157,khuzdar,Low,102,Low,55,bombing,isis,
+2015,jan,parachinar bombing,Low,112,parachinar,Low,87,Low,25,bombing,Lashkar-e-Jhangvi,
+2016,feb,charsadda sucide bombing,Low,27,charsadda,Low,20,Low,7,suicide bombing,,sessions court
+2016,feb,hayatabad sucide bombing,Low,14,hayatabad,Low,12,Low,2,suicide attack,tehreek e taliban,judges
+2016,feb,lahore bombing,Low,108,lahore,Low,90,Low,18,suicide bombing,jamat ul ahrar,police officals
+2016,mar,parachinar sucide bombing,Low,112,parachinar,Low,87,Low,25,bombing,Lashkar-e-Jhangvi,
+2016,apr,lahore bombing,Low,32,lahore,Low,24,Low,8,suicide bombing,tehreek e taliban,
+2016,apr,Sargodha shrine massacre,Low,23,Sargodha,Low,3,Low,20,torture,,people visiting shrine
+2016,may,gawadar labour shooting,Low,10,gawadar,Low,0,Low,10,shooting,,sindhi labourers
+2016,may,mastung sucide bombing,Low,68,mastung,Low,40,Low,28,suicide motocycle bombing,,Senator Abdull Ghafoor Haideri
+2016,jun,pakistan attacks,Medium,317,pakistan,Medium,221,Medium,96,target killing,jamat ul ahrar,law enforcement personnel and civilians
+2017,jun,zarghoon road killing,Low,18,zarghoon,Low,13,Low,5,target killing,,
+2017,jul,lahore bombing,Low,80,lahore,Low,54,Low,26,suicide bombing,tehreek e taliban,police officals
+2017,jul,panjgur landmine blast,Low,9,panjgur,Low,5,Low,4,bombing,,
+2017,aug,ataullah shah,Low,1,Dera Ismail Khan ,Low,0,Low,1,shooting,,Ataullah Shah
+2017,aug,Bajaur bombing,Low,27,Bajaur,Low,24,Low,3,bombing,,Laborers
+2017,aug,harnai balochistan,Low,8,harnai,Low,0,Low,8,bombing,balochistan liberation army,Frontier Corps
+2017,aug,lahore bombing,Low,37,lahore,Low,35,Low,2,truck bombing,tehreek e taliban,
+2017,aug,quetta suicide bombing ,Low,55,quetta,Low,40,Low,15,suicide bombing,islamic state khorasan province,Pakistan army
+2017,aug,sehwan sucide bombing,Medium,391,sehwan,Medium,300,Medium,91,suicide jacket grenade,isis,Sufi pilgrims
+2017,oct,malawat poisoning ,Low,17,malawat,Low,0,Low,17,,,
+2017,oct,jhal magsi sucide bombing,Low,50,jhal magsi,Low,30,Low,20,suicide bombing,,Pir Rakhel Shah shrine
+2017,nov,Peshawar police vehicle attack,Low,8,Peshawar,Low,6,Low,2,suicide attack,,Ashraf Noor (AIG)
+2017,dec,peshawar Agriculture Directorate attack,Low,48,peshawar,Low,35,Low,13,mass murder,tehreek e taliban,Agricultural Training Institute
+2017,dec,quetta church attack,Low,68,quetta,Low,57,Low,11,,islamic state of Iraq and the levant,pakistani christians
+2017,jan,zainab murder case,Low,1,qasoor,Low,0,Low,1,kidnapping,imran ali,Zainab amin
+2017,jan,naqeebullah,Low,1,karachi,Low,0,Low,1,murder,,
+2017,jul,kulachi kpk,Low,6,kulachi,Low,3,Low,3,suicide bombing,tehreek e taliban,Ikramullah Khan Gandapur
+2017,jul,mastung and bannu,Medium,377,mastung,Medium,223,High,154,suicide bombing,islamic state of Iraq and the levant,Nawabzada Siraj Raisani
+2017,jul,pakistan general elections violence,Low,66,pakistan,Low,35,Low,31,,,
+2017,jul,peshawar sucide bombing,Low,97,peshawar,Low,22,Medium,75,suicide bombing,tehreek e taliban,Haroon Bilour
+2017,jul,quetta sucide bombing,Low,71,quetta,Low,40,Low,31,suicide bombing,islamic state of Iraq and the levant,
+2017,nov,karachi ,Low,5,karachi,Low,1,Low,4,shooting,balochistan liberation army,
+2017,nov,orakzai bombing,Low,89,orakzai,Low,56,Low,33,suicide bombing,islamic state khorasan province,
+2017,jan,loralai attack,Low,31,loralai,Low,22,Low,9,bombing,,
+2018,feb,balochistan attacks,Low,17,balochistan,Low,11,Low,6,shooting,Baloch Raji Ajoi Sangar,Frontier Corps
+2018,apr,makran massacre,Low,14,makran,Low,0,Low,14,shooting,baloch militants,Security personnel and locals
+2018,apr,quetta bombing,Low,70,quetta,Low,48,Low,22,suicide bombing,Lashkar-e-Jhangvi,Hazaras
+2018,may,lahore bombing,Low,37,lahore,Low,24,Low,13,suicide bombing,jamat ul ahrar,
+2018,may,pearl continental hotel balochistan,Low,14,balochistan,Low,6,Low,8,shooting,balochistan liberation army,Chinese tourists
+2018,sep,namrita chandani,Low,1,ghotki ,Low,0,Low,1,,,Namrita Chandani
+2018,jan,quetta bombing,Low,34,quetta,Low,19,Low,15,suicide bombing,islamic state of Iraq and the levant,Talibun run mosque
+2018,feb,quetta bombing,Low,45,quetta,Low,35,Low,10,suicide bombing,,
+2018,jun,pakistan stock exchange,Low,15,karachi,Low,7,Low,8,mass shooting,balochistan liberation army,Pakistan Stock Exchange
+2019,aug,hayat baloch,Low,1,"turbat,kech district",Low,0,Low,1,extrajudical killing,Shadiullah,Hayat Baloch
+2019,jan,machh attack,Low,11,machh,Low,,Low,11,,islamic state khorasan province,
+2019,jan,usman nadeem satti,Low,1,islamabad,Low,0,Low,1,,,
+2019,feb,ippi shooting,Low,5,KPK,Low,1,Low,4,mass shooting,,Aid workers
+2019,mar,chaman bombing balochistan,Low,0,chaman,Low,,Low,,,,
+2019,mar,janikhel kpk,Low,0,"janikhel,KPK",Low,,Low,,,,
+2019,apr,quetta serena hotel,Low,16,quetta,Low,11,Low,5,suicide car bombing,tehreek e taliban,Serena Hotel
+2020,jun,lahore bombing,Low,27,lahore,Low,24,Low,3,,Peter Paul David,Hafiz Saeed
+2020,jul,Murder of Noor Mukadam,Low,1,islamabad,Low,,Low,1,murder,Zahir Jaffer,Noor Mukadam
+2020,aug,balochistan attacks,Low,10,balochistan,Low,6,Low,4,bombing, terrorist group,Security personnel 
+2020,aug,quetta bombing,Low,24,quetta,Low,22,Low,2,,,Police van
+2021,sep,quetta sucide attack,Low,24,quetta,Low,20,Low,4,bombing,tehreek e taliban,FC checkpost
+2021,nov,nazim jokhio,Low,1,karachi,Low,0,Low,1,murder,,Nazim Jokhio
+2021,nov,muhammad zada,Low,0,malakand,Low,,Low,,,,
+2021,dec,priyantha kumara,Low,0,sialkot,Low,,Low,,,,
+2021,jan,"kech district,Lahore bombing",Low,13,kech,Low,3,Low,10,militant attack,balochistan liberation front,Army security post
+2021,feb,mushtaq ahmad,Low,0,mushtaq,Low,,Low,,,,
+2021,mar,peshawar bombing,Medium,259,peshawar,Medium,196,Medium,63,suicide bombing,islamic state khorasan province,The Kucha Risaldar Shia Mosque
+2021,mar,sibi,Low,0,sibi,Low,,Low,,,,
+2021,mar,quetta bombing,Low,0,quetta,Low,,Low,,,,
+2021,apr,karachi uni,Low,9,karachi,Low,4,Low,5,suicide bombing,balochistan liberation front,Chinese lecturers
+2021,may,miranshah attack,Low,0,miranshah,Low,,Low,,,,
+2021,aug,harnai balochistan,Low,0,harnai,Low,,Low,,,,
+2021,jan,sarband police station attack,Low,3,peshawar,Low,0,Low,3,Grenade attack,pakistani Taliban,sarband police station
+2021,jan,Peshawar Mosque Bombing,Medium,304,Peshawar,Medium,220,Medium,84,Suicide Bombing,jamat ul ahrar,police officers
+2022,feb,Karachi Police Station Attack,Low,18,karachi,Low,14,Low,4,Grenade attack,pakistani Taliban,Police station
+2022,feb,Barkhan Bombing,Low,18,Barkhan,Low,14,Low,4,Bombing,,Civillians
+2022,mar,Bolan suicide Bombing,Low,22,Bolan ,Low,13,Low,9,Suicide bombing,tehreek jihad Pakistan,Police officers
+2022,mar,Lakki Marwat terrorist Attack,Low,10,Lakki Marwat,Low,6,Low,4,militant attack,tehreek e taliban,Saddar Police station
+2022,apr,Kechi District Attack,Low,4,Kech District,Low,0,Low,4,Terrorist Attack,,Pakistan security forces
+2022,apr,Yar Husain grenade Attack ,Low,3,yar husain,Low,2,Low,1,Grenade attack,,police officials
+2022,apr,Khyber Blast,Low,6,Khyber tribal district,Low,4,Low,2,improvised Explosive Device,,Security Forces
+2022,apr,Kandhari Bazar bombing,Low,19,Quetta,Low,15,Low,4,bombing,,police vehicle
+2023,may,Muslim Bagh attack,Low,25,Muslim Bagh,Low,12,Low,13,Mass shooting,,Frontier Corps Camp
+2023,may,Zhob suicide Attack,Low,7,Zhob District,Low,6,Low,1,suicide attack,,Convoy of sirajul Haq 
+2023,may,North waziristan Suicide Bombing,Low,4,North waziristan,Low,0,Low,4,Suicide bombing,Jaish Fursan Muhammad,security checkpoint
+2023,Jul,Khar Bombing,Medium,263,Khar,Medium,200,Medium,63,suicide bombing,IS-KP,jamiat ulema e Islam
+2023,aug,North waziristan Landmine Bombing,Low,13,North waziristan,Low,2,Low,11,Terrorist Attack,ISIL,Laborers
+2023,sep,Matsung Bombing,Low,130,Matsung District,Low,70,Low,60,suicide bombing,ISIL,Eid Milad-ul-Nabi procession
+2023,sep,hangu Mosque Bombing,Low,17,Hangu,Low,12,Low,5,suicide bombing,,Mosque
+2023,nov,Dera Ismail Bombing,Low,25,Dera Ismail Khan ,Low,20,Low,5,Bombing,,KPK police
+2023,nov,Gwadar Ambush,Low,14,Gwadar District,Low,0,Low,14,Ambush,balochistan liberation army,Soldiers
+2023,nov,Mianwali Air base Attack,Low,9,Mianwali,Low,0,Low,9,,Tehreek e jihad,PAF base M.M Alam
+,,,Low,,,,,,,,,
